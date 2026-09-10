@@ -1,5 +1,2 @@
-# head-spinning-HTML+CSS+GSAP
-
-
-
-![](head-gif.gif)
+# My-Head
+🌐 Site publicado: https://sleiman-m.github.io/My-Head/
